@@ -1,7 +1,7 @@
 ﻿Works only for Turkiye.
 
 To run, execute the bomber.py file.
-Çalıştırmak için bombey.py dosyasını açın.
+Çalıştırmak için bomber.py dosyasını açın.
 
 Gerekli olan eklentileri kurmak için install requirements.bat'ı açın
 veya cmd'yi açıp "pip install colorama" ve "pip install requests" yazıp enterlayın.
